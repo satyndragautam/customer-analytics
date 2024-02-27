@@ -13,7 +13,7 @@ knowledge into customer analytics and understand the basics of it
 
 ##### Course Learning Outcomes:
 
-Understand major customer data collection methods and their impact on business decisions
-Identify tools for predicting customer behavior and their suitable applications
-Effectively communicate concepts of customer analytics and their role in business decisions
-Discuss the evolution of customer analytics and current best practices in leading firms
+* Understand major customer data collection methods and their impact on business decisions
+* Identify tools for predicting customer behavior and their suitable applications
+* Effectively communicate concepts of customer analytics and their role in business decisions
+* Discuss the evolution of customer analytics and current best practices in leading firms
