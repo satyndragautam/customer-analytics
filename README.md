@@ -1,4 +1,4 @@
-# 💹 Customer Analytics
+# 📊 Customer Analytics
 
 I began this project while awaiting the completion of paperwork for my US work permit alongside enjoying becoming a father. 
 I wanted to use this time to expand my skills and explore a new area of expertise. This project was all about improving customer 
