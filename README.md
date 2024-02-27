@@ -17,3 +17,14 @@ knowledge into customer analytics and understand the basics of it
 * Identify tools for predicting customer behavior and their suitable applications
 * Effectively communicate concepts of customer analytics and their role in business decisions
 * Discuss the evolution of customer analytics and current best practices in leading firms
+
+
+
+
+<br>
+<br>
+<br>
+<hr>
+<br>
+
+Please Note: During this program, there were multiple hands-on exercises and hands-on projects done using the speadsheets. I will add them here in this repo for a better visibility in upcoming months. 
