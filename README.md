@@ -8,7 +8,6 @@ analytics to tackle real-world business challenges and make sense of raw data to
 
 <br>
 <br>
-<br>
 Additionally, this project provided detailed information on how companies like Amazon, Google, and Starbucks use analytics 
 to make informed decisions. This course helped me understand the history and best practices of customer analytics and how 
 to apply them in real-world scenarios. Overall, this project was aimed to gain introductory 
