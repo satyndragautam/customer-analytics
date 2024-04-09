@@ -1,6 +1,6 @@
 # 📊 Customer Analytics
 
-I began this project while awaiting the completion of paperwork for my US work permit alongside enjoying becoming a father. 
+I began this project while enjoying becoming a father. 
 I wanted to use this time to expand my skills and explore a new area of expertise. This project was all about improving customer 
 experience, something I learned was vital for businesses. During this program, I developed a deep understanding into the basics 
 of customer experience and learned how to use different methods such as descriptive analytics, predictive analytics, prescriptive 
