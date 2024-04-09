@@ -15,6 +15,7 @@ knowledge into customer analytics and understand the basics of it.
 
 <br>
 <br>
+
 ##### Course Learning Outcomes:
 
 * Understand major customer data collection methods and their impact on business decisions
